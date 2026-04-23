@@ -1,0 +1,32 @@
+{
+  "name": "Bitmatch",
+  "short_name": "Bitmatch",
+  "description": "A fast-paced match-3 puzzle game with bosses, combos, and pixel charm.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#764ba2",
+  "theme_color": "#764ba2",
+  "categories": ["games", "puzzle", "entertainment"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
